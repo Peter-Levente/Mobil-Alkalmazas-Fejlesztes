@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">5_Hazi</string>
+    <string-array name="elemek">
+        <item>Alma</item>
+        <item>Körte</item>
+        <item>Banán</item>
+        <item>Szilva</item>
+        <item>Eper</item>
+        <item>Ananász</item>
+        <item>Málna</item>
+        <item>Szőlő</item>
+        <item>Narancs</item>
+        <item>Citrom</item>
+        <item>Kiwi</item>
+        <item>Dinnye</item>
+        <item>Kókusz</item>
+        <item>Őszibarack</item>
+        <item>Mangó</item>
+        <item>Datolya</item>
+        <item>Füge</item>
+        <item>Avokádó</item>
+        <item>Papaya</item>
+        <item>Gránátalma</item>
+    </string-array>
+</resources>
